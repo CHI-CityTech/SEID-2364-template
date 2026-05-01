@@ -21,7 +21,7 @@
 <details>
 <summary>Previous Assignments</summary>
 
-- [Assignment 8: Bias, Decision-Making, and Harm in AI-Mediated Systems](./assignments/SEID2364_assignment08_ai_mediation_risk_fluidity_and_regulatory_limits.md) — select a new AI system, construct three deployment scenarios, and map where bias enters and travels through a mediation pathway, how it shapes decisions, and what harms it produces.
+- [Assignment 8: Bias, Decision-Making, and Harm in AI-Mediated Systems](./assignments/SEID2364_Assignment08_ai_mediation_risk_fluidity_and_regulatory_limits.md) — select a new AI system, construct three deployment scenarios, and map where bias enters and travels through a mediation pathway, how it shapes decisions, and what harms it produces.
 - [Assignment 7: EU AI Act System Evaluation](./assignments/SEID2364_Assignment07_eu_ai_act_system_evaluation.md) — classify a system within EU AI Act risk categories and analyze how risk is produced and distributed through mediation pathways.
 - [Assignment 6: Mediation Pathways Across Physical and Virtual Space](./assignments/SEID2364_Assignment06_mediation_pathways.md) — map how agency, information, authority, and accountability travel through mediated systems.
 - [Assignment 5: System Structuring and Ethical Analysis](./assignments/SEID2364_Assignment05_system_structuring.md)

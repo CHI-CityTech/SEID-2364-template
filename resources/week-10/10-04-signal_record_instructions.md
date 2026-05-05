@@ -1,6 +1,6 @@
 # Signal Record Instructions
 
-> Template file: [Signal Record Template](10-SEID2364_signal_card_template.md)
+> Template file: [Signal Record Template](10-03-signal_card_template.md)
 
 These instructions explain how to create and maintain your signal record in the Unit 10 wiki activity.
 
@@ -19,7 +19,7 @@ Your page has three parts:
 
 ## Creating Your Page
 
-1. Open the [Signal Record Template](10-SEID2364_signal_card_template.md)
+1. Open the [Signal Record Template](10-03-signal_card_template.md)
 2. Copy **Part A** (the page header)
 3. Create a new wiki page using this naming convention: `Signal-[StudentName]-Loan-[SignalID]`
 4. Paste Part A and fill in the Signal Identity fields

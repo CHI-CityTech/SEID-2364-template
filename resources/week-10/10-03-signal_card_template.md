@@ -1,6 +1,6 @@
 # Signal Record Template
 
-> How to fill out this template: [Signal Record Instructions](10-SEID2364_signal_record_instructions.md)
+> How to fill out this template: [Signal Record Instructions](10-04-signal_record_instructions.md)
 
 ---
 

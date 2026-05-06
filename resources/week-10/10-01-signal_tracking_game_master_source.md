@@ -52,6 +52,7 @@ Examples:
 - Minimum 4 linked signal cards
 - At least 1 branch decision
 - EDOCA at each step (signal and space)
+- For each transition, document the vector transmission mechanism and the critical components of the arrival space
 - Final trust reflection: "How much can D trust S based on V?"
 
 ---

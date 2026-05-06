@@ -23,7 +23,15 @@ Your page has three parts:
 2. Copy **Part A** (the page header)
 3. Create a new wiki page using this naming convention: `Signal-[StudentName]-Loan-[SignalID]`
 4. Paste Part A and fill in the Signal Identity fields
-5. Leave Current State Snapshot and End-of-Path Synthesis blank for now
+5. Initialize **Current State Snapshot** with the starting state of your signal
+6. Leave **End-of-Path Synthesis** blank for now
+
+Use these starting defaults unless your instructor specifies otherwise:
+- Current Node: `Node-Applicant-Concept`
+- Current Representation: your initial signal framing before first transition
+- Current Trust Level: 70
+- Total Transitions So Far: 0
+- Cumulative Distortion Level: Low
 
 ---
 
@@ -33,7 +41,7 @@ Each time your signal passes through a vector (an edge between two nodes):
 
 1. Copy **Part B** (the transition entry block) from the template
 2. Paste it at the **top** of the Transition Log, above any previous transitions
-3. Fill in every field
+3. Fill in every field, including (a) the vector transmission details and (b) the critical components of the arrival space
 4. Update the **Current State Snapshot** at the top of the page to reflect where your signal now is
 
 ---
@@ -54,7 +62,7 @@ Each time your signal passes through a vector (an edge between two nodes):
 
 ### Current State Snapshot
 
-Update this every time you add a new transition. It should always reflect where the signal is right now.
+Initialize this when you create the page, then update it every time you add a new transition. It should always reflect where the signal is right now.
 
 | Field | What to write |
 |-------|--------------|
@@ -82,8 +90,11 @@ Leave blank until your signal has completed its path. Then write a concise summa
 **From Node / To Node**
 The nodes on either side of the vector you are reporting on.
 
-**Vector / Edge Description**
-A short label for the mechanism of transformation. Examples: "automated scoring model," "form submission," "human review."
+**Vector / Edge Transmission Description / What is being transmitted / How this vector transforms the signal**
+Document the edge as a transmission mechanism, not just a label:
+- name the mechanism (example: "automated scoring model")
+- specify what information is being carried into the next node
+- explain how the vector changes representation, meaning, or usability of that information
 
 ---
 
@@ -134,6 +145,21 @@ Assess the signal itself as it crosses this vector.
 Assess the space (node) that the signal is entering.
 
 Same dimensions, but now applied to the environment the signal is entering rather than the signal itself.
+
+---
+
+**Arrival Space Critical Components**
+For the space you are entering (the **To Node**), record its core operating conditions:
+- Space Type: classify the dominant type as conceptual, physical, virtual, institutional, or blended
+- Space Description: what this space does in the pathway
+- Constraints: limits that shape what can happen here
+- Access: who can enter or submit information here
+- Authority: who controls decisions or rules in this space
+- Relevant Actors: who is actively shaping outcomes in this space
+- Distortion Risks: common ways information can be misrepresented or degraded here
+- How this space connects to other spaces and agents: explain inbound and outbound relationships that shape the signal
+
+This section should align with the node definitions and show that you are tracking both the edge and the receiving space.
 
 ---
 

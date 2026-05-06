@@ -25,6 +25,11 @@ Current Trust Level:
 Total Transitions So Far:
 Cumulative Distortion Level:
 
+Starting defaults (edit if your instructor specifies a different start):
+- Current Node: Node-Applicant-Concept
+- Current Trust Level: 70
+- Total Transitions So Far: 0
+
 ## End-of-Path Synthesis
 Overall Pathway Summary:
 What accumulated along the way?
@@ -43,7 +48,9 @@ How much can D trust S based on V?
 ### Transition [Number]
 From Node:
 To Node:
-Vector / Edge Description:
+Vector / Edge Transmission Description:
+What is being transmitted across this edge:
+How this vector transforms the signal:
 
 #### SVD
 S:
@@ -75,6 +82,16 @@ Distortion:
 Observability:
 Control:
 Alignment:
+
+#### Arrival Space Critical Components
+Space Type (conceptual / physical / virtual / institutional / blended):
+Space Description:
+Constraints:
+Access:
+Authority:
+Relevant Actors:
+Distortion Risks:
+How this space connects to other spaces and agents:
 
 #### Actor Influence
 Which actors influenced this transformation?

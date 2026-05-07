@@ -10,18 +10,32 @@
 
 ## 🔗 **Current Assignment**
 
-[Assignment 9: Mediation Pathways, Capability, and Responsibility](./assignments/SEID2364_Assignment09_mediation_pathways_capability_and_responsibility.md) — reconstruct how harmful outcomes emerge through mediation pathways in a real-world incident; apply EDOCA to evaluate capability under constraint; analyze whether harm was unintended, foreseeable but not prevented, or designed with plausible deniability; map where responsibility becomes distributed or unclear.
+[Assignment 10: Week 10 Asynchronous Module](./assignments/SEID2364_Assignment10_asynchronous_start_page.md) — asynchronous class activity focused on temporal distance, signal integrity, and time-based mediation using the Unit 10 signal-tracking workflow.
+
+This assignment is completed asynchronously and combines:
+
+- individual temporal mediation analysis
+- Zotero source contribution
+- GitHub Discussion Board 1 (temporal mediation analysis)
+- GitHub Discussion Board 2 (game development and rule testing)
+- collaborative Wiki signal-tracking activity
 
 **Supporting materials:**
-- [Incident Selection Guide](./resources/09-SEID2364_Assignment09_incident_selection_guide.md) — framework for finding and evaluating real-world incidents
-- [EDOCA Framework Reference](./resources/09-SEID2364_EDOCA-Evaluating_mediation_pathways_supporting_document.md) — diagnostic dimensions for mediation assessment
-- [Worked Example: EDOCA Analysis](./resources/09-SEID2364_example_EDOCA_transition_analysis.md) — detailed example showing how to decompose a system into SVDs, identify critical inflection points, and apply EDOCA to selected transitions
+
+- [Assignment 10 Start Page](./assignments/SEID2364_Assignment10_asynchronous_start_page.md) — complete asynchronous sequence and prompts
+- [Week 10 Resource Index](./resources/week-10/README.md) — templates, instructions, examples, and supporting materials
+- [Signal Record Template](./resources/week-10/10-03-signal_card_template.md) — copy-and-use signal record structure
+- [Signal Record Instructions](./resources/week-10/10-04-signal_record_instructions.md) — field-by-field workflow guidance
+- [Temporal Distance and Time in BBS](./resources/week-10/10_00_temporal_distance_and_time_in_bbs.md) — core conceptual reading
+- [Unit 10 Main Wiki Card](https://github.com/CHI-CityTech/SEID-2364/wiki/U10SG-Unit-10-Signal-Tracking-Game) — exercise launch page (only wiki link in this section)
+- [Assignment 10 Activity 4 (Game Development Thread)](./assignments/SEID2364_Assignment10_asynchronous_start_page.md#activity-4--github-discussion-board-2-game-development-and-rule-testing) — required discussion thread for game rules, play-test observations, and revisions
 
 ---
 
 <details>
-<summary>Previous Assignments</summary>
+<summary>Past Assignments</summary>
 
+- [Assignment 9: Mediation Pathways, Capability, and Responsibility](./assignments/SEID2364_Assignment09_mediation_pathways_capability_and_responsibility.md) — reconstruct how harmful outcomes emerge through mediation pathways in a real-world incident; apply EDOCA to evaluate capability under constraint; analyze whether harm was unintended, foreseeable but not prevented, or designed with plausible deniability; map where responsibility becomes distributed or unclear.
 - [Assignment 8: Bias, Decision-Making, and Harm in AI-Mediated Systems](./assignments/SEID2364_Assignment08_ai_mediation_risk_fluidity_and_regulatory_limits.md) — select a new AI system, construct three deployment scenarios, and map where bias enters and travels through a mediation pathway, how it shapes decisions, and what harms it produces.
 - [Assignment 7: EU AI Act System Evaluation](./assignments/SEID2364_Assignment07_eu_ai_act_system_evaluation.md) — classify a system within EU AI Act risk categories and analyze how risk is produced and distributed through mediation pathways.
 - [Assignment 6: Mediation Pathways Across Physical and Virtual Space](./assignments/SEID2364_Assignment06_mediation_pathways.md) — map how agency, information, authority, and accountability travel through mediated systems.
@@ -115,5 +129,3 @@ AI is integrated as both a **tool and a collaborator**. Students are encouraged 
 ## 🧠 **Keywords**
 
 `#Ethics` `#AI` `#DataScience` `#BalancedBlendedSpace` `#CulturalHeritage` `#EUAIAct` `#CollaborativeAI` `#BBSFramework`
-
-

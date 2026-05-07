@@ -67,7 +67,7 @@ Complete the materials in this order before posting your discussion response.
    - This video is review. It revisits the spatial distance categories from last week: personal, local, remote, and inaccessible.
 
 2. **Read the assigned temporal distance paper.**
-   - Reading: [Temporal Distance and Time in BBS](10_temporal_distance_and_time_in_bbs.md)
+   - Reading: [Temporal Distance and Time in BBS]([10_temporal_distance_and_time_in_bbs.md](https://github.com/CHI-CityTech/SEID-2364/blob/main/resources/week-10/10_temporal_distance_and_time_in_bbs.md))
    - GitHub version: https://github.com/CHI-CityTech/SEID-2364/blob/main/resources/week-10/10_temporal_distance_and_time_in_bbs.md
    - The BBS distance diagram is embedded in this paper.
 

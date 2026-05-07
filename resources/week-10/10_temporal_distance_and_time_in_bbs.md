@@ -2,6 +2,8 @@
 
 ## A Discussion of Temporal Mediation, Trust, and Signal Integrity
 
+Dr David B. Smith  
+2026  
 ## Abstract
 
 Temporal distance within the Balanced Blended Space (BBS) framework suggests that mediation occurs not only across physical, virtual, and conceptual spaces, but also across time. While traditional communication and information-theoretic models often emphasize the reliable transmission of signals through communication pathways, BBS extends mediation analysis by treating temporal conditions as qualitative and context-dependent aspects of signal integrity. Within this framework, signals may persist, delay, expire, become inaccessible, or undergo reinterpretation across temporal distance.

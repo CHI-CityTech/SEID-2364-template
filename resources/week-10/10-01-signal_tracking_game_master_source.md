@@ -26,7 +26,7 @@ This layer defines the game architecture independent of scenario domain.
 - Exercise home: `Unit-10-Signal-Tracking-Game`
 - Nodes: `Node-[Space-Name]`
 - Agents: `Agent-[Agent-Name]`
-- Student signal records: `Signal-[StudentName]-Loan-[SignalID]`
+- Student signal records: `U10SG-Signal-[StudentName]-Loan-[SignalID]`
 
 Examples:
 - `Signal-AnaGarcia-Loan-01`
@@ -587,7 +587,7 @@ Students copy this template from assignment materials and create one evolving wi
 ```markdown
 # Signal Record: [Student Name] - [Signal Name]
 
-Page name: Signal-[StudentName]-Loan-[SignalID]
+Page name: U10SG-Signal-[StudentName]-Loan-[SignalID]
 
 ## Signal Identity
 Student:

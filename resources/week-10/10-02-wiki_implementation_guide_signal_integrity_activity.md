@@ -99,7 +99,7 @@ Students copy the template, create one new Wiki page for the signal, and continu
 ```markdown
 # Signal Record: [Student Name] - [Signal Name]
 
-Page name: Signal-[StudentName]-Loan-[SignalID]
+Page name: U10SG-Signal-[StudentName]-Loan-[SignalID]
 
 ## Signal Identity
 Student:

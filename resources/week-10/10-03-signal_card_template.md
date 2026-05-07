@@ -13,7 +13,7 @@
 ```
 # Signal Record: [Student Name] - [Signal Name]
 
-Page name: Signal-[StudentName]-Loan-[SignalID]
+Page name: U10SG-Signal-[StudentName]-Loan-[SignalID]
 
 ## Signal Identity
 Student:

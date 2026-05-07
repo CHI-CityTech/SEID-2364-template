@@ -23,7 +23,7 @@ For this activity, treat mediation across **time** as co-equal with mediation ac
 
 1. Open the [Signal Record Template](10-03-signal_card_template.md)
 2. Copy **Part A** (the page header)
-3. Create a new wiki page using this naming convention: `Signal-[StudentName]-Loan-[SignalID]`
+3. Create a new wiki page using this naming convention: `U10SG-Signal-[StudentName]-Loan-[SignalID]`
 4. Paste Part A and fill in the Signal Identity fields
 5. Initialize **Current State Snapshot** with the starting state of your signal
 6. Leave **End-of-Path Synthesis** blank for now
@@ -246,7 +246,7 @@ Link to the next node page your signal will enter.
 
 ## Naming Convention
 
-`Signal-[StudentName]-Loan-[SignalID]`
+`U10SG-Signal-[StudentName]-Loan-[SignalID]`
 
 | Part | Format | Example |
 |------|--------|---------|

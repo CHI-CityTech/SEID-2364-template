@@ -9,7 +9,7 @@ This guide is separate from the Rulebook. The Rulebook defines concepts. This do
 The activity should be understood as having two separate layers:
 
 - The game system: the page structure, naming conventions, linking rules, traversal logic, and contribution workflow
-- The game content: the specific scenario, nodes, actors, and signal transformations used in a given run
+- The game content: the specific scenario, nodes, agents, and signal transformations used in a given run
 
 For the first pilot, the game system remains stable while the game content is built around a loan or lending pathway.
 
@@ -24,14 +24,14 @@ There are four primary page types:
 1. Wiki Home Page
 2. Exercise Home Page
 3. Node Pages (Spaces)
-4. Actor Pages (Reference Layer)
-5. Signal Cards (Student-generated pages)
+4. Agent Pages (Reference Layer)
+5. Signal Records (Student-generated pages)
 
 The Wiki Home Page is the landing page for the course wiki as a whole.
 
 The Exercise Home Page is the landing page for this specific activity. It is linked from the Wiki Home Page and can also be distributed directly to students.
 
-Students traverse the system by creating and linking Signal Cards as they move through Node Pages.
+Students traverse the system by updating one evolving Signal Record as they move through Node Pages.
 
 ---
 
@@ -49,20 +49,18 @@ Create the following top-level pages:
 - Node-Lending-Officer
 - Node-Decision
 - Node-Appeal (optional branch)
-- Actor-Applicant
-- Actor-Lending-Institution
-- Actor-AI-Model
-- Actor-Loan-Officer
-- Actor-Regulator
-- Actor-Credit-Bureau
+- Agent-Applicant
+- Agent-Lending-Institution
+- Agent-AI-Model
+- Agent-Loan-Officer
+- Agent-Regulator
+- Agent-Credit-Bureau
 
-Student-created pages should also use self-documenting names, for example:
+Student-created pages should use one evolving signal-record name, for example:
 
-- Signal-Ana-Garcia-01
-- Signal-Ana-Garcia-02
-- Signal-Ana-Garcia-03
+- Signal-AnaGarcia-Loan-01
 
-All pages in the activity should contain links to the pages immediately before and after them where applicable.
+Path linkage is recorded on the Signal Record page (transition lineage + next node). Node and Agent pages are reference layers and do not enforce a single global sequence.
 
 ---
 
@@ -81,7 +79,7 @@ It must include:
 - Signal definition
 - Signal purpose
 - Starting trust level
-- Instructions for copying the Signal Card template from the assignment or course resource
+- Instructions for copying the Signal Record template from the assignment or course resource
 - Link to first Node page
 
 This page is the primary entry point for the activity.
@@ -90,66 +88,126 @@ It should be linked from the wiki Home page and may also be shared directly with
 
 ---
 
-# 4. Signal Card Template
+# 4. Signal Record Template
 
-Students must copy this template for each step.
+Students must copy this template once per signal and then add transitions to the same page.
 
 The template does not need to live as a Wiki page. It can be distributed in the Assignment page or in a repository resource linked from the activity page.
 
-Students copy the template, create a new Wiki page, name the Signal Card, and then continue through the activity.
+Students copy the template, create one new Wiki page for the signal, and continue through the activity by adding transition entries.
 
 ```markdown
-# Signal Card: [Student Name] — Step [#]
+# Signal Record: [Student Name] - [Signal Name]
 
-Page name: Signal-[Student-Name]-[Step-Number]
+Page name: Signal-[StudentName]-Loan-[SignalID]
 
-## Current SVD
+## Signal Identity
+Student:
+Signal Name:
+Scenario:
+Signal ID:
+Status: Active
+
+## Current State Snapshot
+Current Node:
+Current Representation:
+Current Trust Level:
+Total Transitions So Far:
+Cumulative Distortion Level:
+
+## End-of-Path Synthesis
+Overall Pathway Summary:
+What accumulated along the way?
+Where did trust degrade, stabilize, or recover?
+How much can D trust S based on V?
+
+## Transition Log
+
+## Branch Registry (update as needed)
+- Branch A:
+- Branch B:
+- Branch C:
+
+### Transition [ID]
+Parent Transition ID (or START):
+Branch ID:
+Branch Status (active / merged / closed):
+From Node:
+To Node:
+Vector / Edge Transmission Description:
+What is being transmitted across this edge:
+How this vector transforms the signal:
+
+#### SVD
 S:
 V:
 D:
 
-## Signal Representation
+#### Input Signal State
 
-## Signal Purpose
+#### Output Signal State
 
-## Raw / Curated / Hybrid
+## Temporal Mediation Notes
+Temporal Condition:
+Persistence State:
+Delay Characterization:
+Expiration Risk:
+Retrieval Context:
+Temporal Trust Impact:
 
-## Integrity (Pattern Preservation)
+#### Signal Purpose At This Step
+
+#### Raw / Curated / Hybrid
+
+#### Integrity (Pattern Preservation)
 Preserved:
 Lost:
 Distorted:
 
-## EDOCA (Signal)
+#### EDOCA (Signal)
+Energy:
 Distortion:
 Observability:
 Control:
-Alignment:
+Authority:
 
-## EDOCA (Space)
+#### EDOCA (Space)
+Energy:
 Distortion:
 Observability:
 Control:
-Alignment:
+Authority:
 
-## Actor Influence
-Which actors influenced this transformation?
+#### Arrival Space Critical Components
+Space Type (conceptual / physical / virtual / institutional / blended):
+Space Description:
+Constraints:
+Access:
+Authority:
+Relevant Agents:
+Distortion Risks:
+How this space connects to other spaces and agents:
+
+#### Agent Influence
+Which agents influenced this transformation?
 How did their goals affect the signal?
 
-## Trust Update
+#### Trust Update
 Previous:
 Change:
 New:
 
-## Rationale
+#### Why This Transition Matters
 
-## Previous Card
+#### Next Node
 [link]
 
-## Next Node
-[link]
-
-## Next Card
-[link if created]
+#### Required Links and Research Evidence
+Node Page Link:
+Relevant Agent Page Link(s):
+Course Material Link(s):
+Authoritative Source Link(s):
+Zotero Link(s) (existing item/collection or newly added item):
 ```
 
 ---
@@ -190,9 +248,9 @@ Nodes must be pre-created for the use case.
 
 ## Observability
 
-## Relevant Actors
-- [Actor Name] → link
-- [Actor Name] → link
+## Relevant Agents
+- [Agent Name] → link
+- [Agent Name] → link
 
 ## External Influences
 - regulation
@@ -212,27 +270,37 @@ Nodes must be pre-created for the use case.
 
 Students may only append to the final section. This is a course rule rather than a technical restriction enforced by GitHub Wiki.
 
----
+Student add-on comments on Node pages should include:
+- Observed pattern in this space
+- Likely distortion or temporal issue seen in this space
+- One link back to the student's relevant transition entry
 
-# 6. Actor Pages (Reference Layer)
-
-Actor Pages describe agents that influence transformations.
-
-## Required Actor Pages
-
-- Actor-Applicant
-- Actor-Lending-Institution
-- Actor-AI-Model
-- Actor-Loan-Officer
-- Actor-Regulator
-- Actor-Credit-Bureau
+Student add-on comments on Node pages should include:
+- Observed pattern in this space
+- Likely distortion or temporal issue seen in this space
+- One link back to the student's relevant transition entry
 
 ---
 
-## Actor Page Template
+# 6. Agent Pages (Reference Layer)
+
+Agent Pages describe agents that influence transformations.
+
+## Required Agent Pages
+
+- Agent-Applicant
+- Agent-Lending-Institution
+- Agent-AI-Model
+- Agent-Loan-Officer
+- Agent-Regulator
+- Agent-Credit-Bureau
+
+---
+
+## Agent Page Template
 
 ```markdown
-# Actor: [Name]
+# Agent: [Name]
 
 ## Role
 
@@ -249,7 +317,12 @@ Actor Pages describe agents that influence transformations.
 ## Typical Effects on Signals
 ```
 
-Actor Pages are NOT traversal nodes.
+Agent Pages are NOT traversal nodes.
+
+Student add-on comments on Agent pages should include:
+- Observed influence pattern for that agent
+- Authority boundary or control pattern observed
+- One link back to the student's relevant transition entry
 
 ---
 
@@ -259,12 +332,12 @@ Each student must:
 
 1. Start at the Exercise Home Page
 2. Open the template from the assignment or linked course resource
-3. Create Step 01 page using the required naming convention
+3. Create one Signal Record page using the required naming convention
 4. Enter first Node
 5. Apply transformation
-6. Create next Signal Card
-7. Link to previous card and next node
-8. Continue for at least 4 steps
+6. Add a transition entry at the top of Transition Log
+7. Include required links to node/agents/materials/sources and Zotero references
+8. Continue until the pathway ends, tracking every transition taken by the signal
 9. Make at least one branching decision
 
 ---
@@ -273,8 +346,9 @@ Each student must:
 
 Each student must submit:
 
-- A chain of at least 4 linked Signal Cards
+- One evolving Signal Record that tracks every transition taken by the signal
 - Completed EDOCA analysis at each step
+- Required links and research evidence at each step (node, agent, course material, authoritative source, Zotero)
 - Final evaluation answering:
 
 > How much can D trust S based on V?
@@ -292,7 +366,7 @@ This system is:
 
 Students do not modify core Node definitions. Students contribute observations to Node pages.
 
-Because the system depends on linked pages, page naming and backlinking are part of the assignment requirements, not optional formatting details.
+Because signals may traverse different nodes in different ways, pathway linkage must remain on each signal record (not on node or agent reference pages). Page naming and transition linkage are part of the assignment requirements, not optional formatting details.
 
 ---
 
@@ -318,10 +392,12 @@ This loan pathway is the first pilot content set for the activity. It is not the
 # 11. Key Design Principles
 
 - Nodes are Spaces
-- Actors operate within Spaces
+- Agents operate within Spaces
 - Signals carry state
 - Transformations are mappings
 - Integrity is pattern preservation
+- Mediation occurs across both space and time
+- Storage and retrieval are active mediation, not passive background
 - Trust is probabilistic
 - The system evolves through use
 - System design and scenario content should be documented separately when the activity expands beyond the first pilot
@@ -332,12 +408,13 @@ This loan pathway is the first pilot content set for the activity. It is not the
 
 - Use Markdown for all pages
 - Use self-documenting flat page names rather than folder-dependent navigation
-- Enforce naming conventions for Signal Cards
+- Enforce naming conventions for Signal Records
 - Require backward links (provenance chain)
 - Require forward links when known
 - Use internal Wiki links for navigation
 - Link to the exercise from Home and, when useful, distribute the direct exercise URL
-- Store the Signal Card template in the assignment materials or linked repository resources
+- Store the Signal Record template in the assignment materials or linked repository resources
+- Require authoritative source links and Zotero references in transition entries
 
 Do NOT automate in this version.
 

@@ -52,6 +52,14 @@ Ana's application exists as a structured institutional record with categorized f
 #### Output Signal State
 Ana's application is translated into a feature vector and output as a risk score plus recommendation band.
 
+#### Temporal Mediation Notes
+Temporal Condition (fresh / delayed / stale / expired): Delayed
+Persistence State (ephemeral / stored / archived): Stored
+Delay Characterization (none / short / moderate / high, with context): Moderate; batch scoring introduces delay relative to applicant expectations
+Expiration Risk (none / low / moderate / high): Moderate; profile can become stale if underlying circumstances change before review
+Retrieval Context (who can retrieve this signal, when, and under what conditions): Internal lending systems can retrieve continuously; applicant access is limited to summarized outputs
+Temporal Trust Impact (how timing changed trust at this step): Trust drops because asynchronous scoring and limited retrieval rights reduce contestability in real time
+
 #### Signal Purpose At This Step
 To estimate lending risk in a standardized and scalable way.
 
@@ -74,19 +82,21 @@ Distorted:
 - proxy variables may overstate risk for structurally disadvantaged applicants
 
 #### EDOCA (Signal)
+Energy: High computational and institutional energy; low applicant energy at this stage
 Distortion: High
 Observability: Low for applicant, high internally
 Control: Low for applicant, high institutional control over deployment
-Alignment: Partial to low
+Authority: High institutional authority over scoring criteria and deployment
 
 #### EDOCA (Space)
+Energy: High system energy concentrated in model execution and policy thresholds
 Distortion: High risk
 Observability: Uneven
 Control: High institutional control
-Alignment: Conditional
+Authority: Centralized institutional authority with limited external contestability
 
-#### Actor Influence
-Which actors influenced this transformation?
+#### Agent Influence
+Which agents influenced this transformation?
 The AI model, the lending institution, and external credit data providers all shaped the output.
 
 How did their goals affect the signal?
@@ -119,6 +129,14 @@ Ana's financial reality is held as a mix of narrative self-understanding, inform
 #### Output Signal State
 Ana's financial reality is represented as a mix of narrative, categorical selections, and numeric form entries.
 
+#### Temporal Mediation Notes
+Temporal Condition (fresh / delayed / stale / expired): Fresh
+Persistence State (ephemeral / stored / archived): Stored
+Delay Characterization (none / short / moderate / high, with context): Short; immediate form capture but downstream review may lag
+Expiration Risk (none / low / moderate / high): Low at submission, rising if review is delayed
+Retrieval Context (who can retrieve this signal, when, and under what conditions): Applicant can review during completion; institution can retrieve after submission under internal access controls
+Temporal Trust Impact (how timing changed trust at this step): Small trust decrease due to expected lag between submission and downstream interpretation
+
 #### Signal Purpose At This Step
 To convert lived financial circumstances into a form the lending system can process.
 
@@ -141,19 +159,21 @@ Distorted:
 - dropdown categories flatten differences in employment type
 
 #### EDOCA (Signal)
+Energy: Moderate applicant and institutional energy focused on data entry and normalization
 Distortion: Moderate
 Observability: Medium
 Control: Shared between applicant and institution
-Alignment: Partial
+Authority: Institution defines submission schema and validation standards
 
 #### EDOCA (Space)
+Energy: Moderate procedural energy through interface constraints and validation rules
 Distortion: Moderate
 Observability: Medium
 Control: High institutional control
-Alignment: Partial
+Authority: Institution controls form architecture and acceptable inputs
 
-#### Actor Influence
-Which actors influenced this transformation?
+#### Agent Influence
+Which agents influenced this transformation?
 The applicant chose what to disclose, but the lending institution shaped the structure through the form design.
 
 How did their goals affect the signal?

@@ -22,6 +22,8 @@ This glossary defines the essential terminology of the **Balanced Blended Space 
 
 **Mediation Pathway (MP)** – The route through which information is transferred or transformed between agents or across spaces. Each MP includes **Source**, **Vector**, and **Destination** roles.
 
+**Authority** – The legitimate decision rights to interpret, act on, gate, or modify signals within a mediation pathway.
+
 ---
 
 ## **2. Spaces and Ontological Composition**

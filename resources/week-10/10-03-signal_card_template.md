@@ -38,6 +38,11 @@ How much can D trust S based on V?
 
 ## Transition Log
 
+## Branch Registry (update as needed)
+- Branch A:
+- Branch B:
+- Branch C:
+
 ```
 
 ---
@@ -45,7 +50,10 @@ How much can D trust S based on V?
 ## PART B — Transition Entry (copy and paste at the top of Transition Log for each new step)
 
 ```
-### Transition [Number]
+### Transition [ID]
+Parent Transition ID (or START):
+Branch ID:
+Branch Status (active / merged / closed):
 From Node:
 To Node:
 Vector / Edge Transmission Description:
@@ -61,6 +69,14 @@ D:
 
 #### Output Signal State
 
+#### Temporal Mediation Notes
+Temporal Condition (fresh / delayed / stale / expired):
+Persistence State (ephemeral / stored / archived):
+Delay Characterization (none / short / moderate / high, with context):
+Expiration Risk (none / low / moderate / high):
+Retrieval Context (who can retrieve this signal, when, and under what conditions):
+Temporal Trust Impact (how timing changed trust at this step):
+
 #### Signal Purpose At This Step
 
 #### Raw / Curated / Hybrid
@@ -75,13 +91,14 @@ Energy:
 Distortion:
 Observability:
 Control:
-Alignment:
+Authority:
 
 #### EDOCA (Space)
+Energy:
 Distortion:
 Observability:
 Control:
-Alignment:
+Authority:
 
 #### Arrival Space Critical Components
 Space Type (conceptual / physical / virtual / institutional / blended):
@@ -89,12 +106,12 @@ Space Description:
 Constraints:
 Access:
 Authority:
-Relevant Actors:
+Relevant Agents:
 Distortion Risks:
 How this space connects to other spaces and agents:
 
-#### Actor Influence
-Which actors influenced this transformation?
+#### Agent Influence
+Which agents influenced this transformation?
 How did their goals affect the signal?
 
 #### Trust Update
@@ -106,5 +123,12 @@ New:
 
 #### Next Node
 [link]
+
+#### Required Links and Research Evidence
+Node Page Link:
+Relevant Agent Page Link(s):
+Course Material Link(s):
+Authoritative Source Link(s):
+Zotero Link(s) (existing item/collection or newly added item):
 
 ```

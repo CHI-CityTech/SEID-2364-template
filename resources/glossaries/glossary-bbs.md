@@ -40,6 +40,8 @@ This glossary defines essential terminology of the **Balanced Blended Space (BBS
 
 **Mediation Event** – Any instance of transformation, transmission, or reinterpretation of information across agents or spaces.
 
+**Temporal Mediation** – The timing-related dimension of mediation in which delay, persistence, retrieval conditions, and expiration affect how a signal is interpreted and trusted.
+
 **Vector Representation** – Notation describing flow: *Source → Vector → Destination*.
 
 **Qualitative Mapping** – Representing relationships based on interpretive (non-numerical) distance or effect.
@@ -67,6 +69,8 @@ This glossary defines essential terminology of the **Balanced Blended Space (BBS
 **Responsibility Diffusion** – The phenomenon where ethical accountability becomes unclear or distributed across multiple agents and systems, making individual responsibility harder to identify.
 
 **Transparency (in BBS)** – Clear visibility of mediation pathways, sources of information, and flows of agency and responsibility.
+
+**Authority** – The legitimate decision rights to interpret, act on, gate, or modify signals within a mediation pathway.
 
 **Agency** – The capacity and freedom of an agent to make meaningful decisions and effect change within a mediated system.
 

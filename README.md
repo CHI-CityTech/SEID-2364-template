@@ -10,25 +10,31 @@
 
 ## 🔗 **Current Assignment**
 
-[Assignment 10: Week 10 Asynchronous Module](./assignments/SEID2364_Assignment10_asynchronous_start_page.md) — asynchronous class activity focused on temporal distance, signal integrity, and time-based mediation using the Unit 10 signal-tracking workflow.
+[Assignment 10: System Synthesis and Communicating Ethical Analysis](./assignments/SEID2364_Assignment10_system_synthesis_and_communication.md) — synthesize your A7–A9 system analyses into one integrated understanding; develop your paper research question, outline, and opening; plan your oral presentation structure and visuals.
 
-This assignment is completed asynchronously and combines:
+This assignment consists of three sequential parts:
 
-- individual temporal mediation analysis
-- Zotero source contribution
-- GitHub Discussion Board 1 (temporal mediation analysis)
-- GitHub Discussion Board 2 (game development and rule testing)
-- collaborative Wiki signal-tracking activity
+- **Part 1** — Integrative System Analysis: combine regulatory (A7), bias (A8), and responsibility (A9) perspectives into one coherent system description with a core ethical tension
+- **Part 2** — Paper Framework: develop your research question, paper outline, opening paragraphs, and annotated source list
+- **Part 3** — Presentation Planning: define audience and scope, outline structure with time allocation, plan visuals
 
 **Supporting materials:**
 
-- [Assignment 10 Start Page](./assignments/SEID2364_Assignment10_asynchronous_start_page.md) — complete asynchronous sequence and prompts
-- [Week 10 Resource Index](./resources/week-10/README.md) — templates, instructions, examples, and supporting materials
-- [Signal Record Template](./resources/week-10/10-03-signal_card_template.md) — copy-and-use signal record structure
-- [Signal Record Instructions](./resources/week-10/10-04-signal_record_instructions.md) — field-by-field workflow guidance
-- [Temporal Distance and Time in BBS](./resources/week-10/10_00_temporal_distance_and_time_in_bbs.md) — core conceptual reading
-- [Unit 10 Main Wiki Card](https://github.com/CHI-CityTech/SEID-2364/wiki/U10SG-Unit-10-Signal-Tracking-Game) — exercise launch page (only wiki link in this section)
-- [Assignment 10 Activity 4 (Game Development Thread)](./assignments/SEID2364_Assignment10_asynchronous_start_page.md#activity-4--github-discussion-board-2-game-development-and-rule-testing) — required discussion thread for game rules, play-test observations, and revisions
+- [Assignment 10 — Full Prompt](./assignments/SEID2364_Assignment10_system_synthesis_and_communication.md)
+- [Week 10 Resource Index](./resources/week-10/README.md)
+- [Temporal Distance and Time in BBS](./resources/week-10/10_00_temporal_distance_and_time_in_bbs.md) — still relevant for temporal analysis questions
+
+---
+
+<details>
+<summary>Upcoming Assignments</summary>
+
+- [Assignment 11: Emerging Technologies and Ethical Uncertainty](./assignments/SEID2364_Assignment11_emerging_technologies_and_uncertainty.md) — apply analogical reasoning and the precautionary principle to a technology at the edge of current regulation; speculative BBS/EDOCA analysis; regulatory gap identification
+- [Assignment 12: Personal Ethical Framework](./assignments/SEID2364_Assignment12_personal_ethical_framework.md) — articulate your own ethical principles, trace your development across the course, apply your framework to a professional scenario, identify blind spots and revision conditions (contributes to 30% Personal Ethical Statement)
+- [Assignment 13: Ethics in Novel Contexts](./assignments/SEID2364_Assignment13_novel_context_application.md) — stress-test your framework in a new domain, a cross-cultural case, and a genuinely ambiguous situation
+- [Assignment 14: Capstone — Final Paper and Oral Presentation](./assignments/SEID2364_Assignment14_capstone_paper_and_presentation.md) — 3,000–4,500 word paper + 10-minute oral presentation + final reflection (major assessment)
+
+</details>
 
 ---
 

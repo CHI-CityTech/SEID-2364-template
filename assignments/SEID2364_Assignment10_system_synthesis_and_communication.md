@@ -5,15 +5,22 @@
 
 ## Framing
 
-Over the past three weeks, you have conducted a sustained analytical investigation of a system from multiple perspectives:
+Across the past several weeks, you have built a layered analytical understanding of AI-mediated systems. That work unfolded in stages:
 
-- **Assignment 7** — evaluated your system through the lens of EU AI Act regulation, classifying risk and analyzing what the law demands
-- **Assignment 8** — traced how bias enters your system across multiple deployment scenarios, showing how harm emerges through design choices and context
-- **Assignment 9** — analyzed mediation pathways, responsibility distribution, and the gap between stated intent and actual capability using EDOCA
+- **Assignments 3–6** introduced you to harm identification, ethical frameworks, system structuring, and mediation pathways. By Assignment 6, you had developed a systematic method for tracing how signals, authority, and information move through a system.
+- **Assignment 7** asked you to evaluate a system under the EU AI Act — to classify it, justify that classification, and identify what regulation requires and where it leaves gaps.
+- **Assignment 8** introduced a different system and asked you to trace how bias enters across different deployment scenarios — showing how the same core technology produces different harms depending on context, user group, and decision authority.
+- **Assignment 9** asked you to identify a real-world incident and reconstruct how harm emerged through mediation pathways — applying EDOCA to evaluate whether capability matched responsibility.
 
-This week, you bring that analysis together.
+This week, you bring that work together.
 
-Your task is not to re-analyze the system. Your task is to **synthesize** the three prior analyses into one coherent understanding, and then **communicate that understanding** in preparation for your final paper and oral presentation.
+Your task is not to repeat or extend any single analysis. Your task is to **synthesize** — to identify what you now understand about a system, an ethical challenge, or a class of problems when you look across everything you have done.
+
+Because Assignments 7, 8, and 9 may not all use the same system, you have a choice:
+
+> **Select one system, incident, or case study from your A7–A9 work that you can analyze from at least two of the three analytical perspectives (regulatory, bias, responsibility).** That becomes your synthesis focus.
+
+This flexibility is intentional. What matters is that you are integrating multiple lenses on a real system — not that you have done all three assignments on identical material.
 
 This is a transition week. You are moving from discovery to communication. You are learning what your analysis means and how to explain it to others.
 
@@ -23,8 +30,8 @@ This is a transition week. You are moving from discovery to communication. You a
 
 By the end of this module, you should be able to:
 
-1. Integrate regulatory analysis (A7), bias analysis (A8), and responsibility analysis (A9) into a single coherent system description
-2. Identify the core ethical challenge in your system when frameworks, regulations, and capability constraints are considered together
+1. Integrate at least two of the three analytical lenses (regulatory analysis, bias pathways, responsibility and capability) into a single coherent system description
+2. Identify the core ethical challenge in your system when multiple frameworks, regulatory constraints, and capability conditions are considered together
 3. Develop a clear research question for your final paper that reflects your full analysis
 4. Structure an argument that communicates system complexity to an audience unfamiliar with your case study
 5. Begin identifying and organizing sources for the final paper
@@ -50,9 +57,15 @@ Each part builds toward your final deliverables: a written paper and an oral pre
 
 ### Activity 1: Choose Your Focus System
 
-Select **one system** that you analyzed across **all three of Assignments 7, 8, and 9**.
+Select **one system, incident, or case study** from your work in Assignments 7, 8, or 9 that you can examine from **at least two** of the following analytical perspectives:
 
-This must be the same system used in all three prior assignments. You are not introducing a new system; you are deepening your analysis of the one you have been working with.
+- Regulatory (from A7: EU AI Act classification, obligations, gaps)
+- Bias and harm pathways (from A8: deployment context, design choices, harm distribution)
+- Responsibility and capability (from A9: EDOCA analysis, mediation pathways, accountability structures)
+
+You do not need to have analyzed the identical system in all three assignments. What matters is that you can bring at least two lenses to bear on a coherent subject. If your A7 and A9 systems are the same but your A8 system is different, you may choose either as your synthesis focus, or find a meaningful bridge between them.
+
+If you are uncertain which to choose, pick the system about which you have the most to say — the one where you found the most interesting tensions or surprises in your prior analysis.
 
 ### Activity 2: Create an Integrated EDOCA + Risk + Responsibility Map
 

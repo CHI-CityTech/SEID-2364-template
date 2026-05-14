@@ -1,6 +1,8 @@
 # COVID-19 Misinformation Moderation
 ## A Comparative Case Study in Platform Governance
 
+**Companion video overview:** [Vimeo walkthrough of this case study](https://vimeo.com/1192236041?share=copy&fl=sv&fe=ci)
+
 During the COVID-19 pandemic, public-health institutions and social media platforms faced a rapidly changing information environment. False and misleading claims about the virus, masks, vaccines, treatments, hospital capacity, public-health restrictions, and the credibility of public institutions circulated widely online. Social media platforms became important sites of public-health communication, political argument, personal testimony, rumor, conspiracy theory, and scientific debate.
 
 The World Health Organization described this condition as an *infodemic*: an overabundance of information, including false or misleading information, circulating during a disease outbreak. In such an environment, people may have difficulty identifying trustworthy guidance, and false claims may influence behavior in ways that affect both individual and public health.[1]

@@ -9,6 +9,11 @@
 
 ---
 
+**Support Resource:**
+- [Case Study Game-Theoretic Analysis Worksheet (Week 12)](../resources/week-12/12-SEID2364_Case_Study_Game_Theory_Worksheet.md)
+
+---
+
 ## Framing
 
 You began this course with a journal entry.

@@ -1,3 +1,7 @@
+# 📅 **Doodle Poll for Next Meeting**
+
+[**Participate in the Doodle Poll to schedule our next class meeting.**](https://doodle.com/group-poll/participate/aMKpvmOd)
+
 # **README – SEID 2364: Societal and Ethical Impacts of Data Science**
 
 ## *Modul University Vienna – Spring 2026*
@@ -12,29 +16,30 @@
 
 
 
+
+
 **Current Assignment:**
-No new assignment this week. The previous Assignment 11 (ACM and IEEE Professional Ethics Applied to the COVID-19 Misinformation Case) has been archived to reduce workload and allow a course reset. See the archive for details.
-
-**Supporting materials:**
-- [COVID-19 Misinformation Case Study](./case-studies/case_study-covid_misinformation.md)
-
-*Note: Assignment 11 and other archived assignments are now located in [assignments/archive/](./assignments/archive/).*
+[Assignment 12: Case Study Specification](./assignments/SEID2364_Assignment12_case_study_specification.md) — Select a Lite Case Study and develop a specification of the ethical system it describes, using game theory, BBS, and EDOCA as analytic tools. This assignment launches your final paper process.
 
 
-<details>
+**Support Resources (Week 12):**
+- [Case Study Game-Theoretic Analysis Worksheet](./resources/week-12/12-SEID2364_Case_Study_Game_Theory_Worksheet.md): A guided worksheet to help you map your Lite Case Study as a strategic system, clarifying agent roles, goals, signals, rules, and ethical tensions for your final project.
+- [Printable Game Pieces – Faceplant Covid Misinformation](./resources/week-12/SEID2364%20Printable%20Game%20Pieces%20-%20Faceplant%20Covid%20Misinformation.pdf): Printable materials for use in the Faceplant COVID-19 misinformation game activity, including stakeholder cards and other components.
+- [Meta-Rules for Designing the Faceplant Game](./resources/week-12/SEID2364_Week12-meta_rules_for_designing_the_faceplant_game.md): Outlines the meta-rules and design constraints for the Faceplant game activity, guiding you in constructing the game system, stakeholder roles, and scoring mechanisms.
 
-<summary>Past Assignments</summary>
+---
+
+
+
+## 📚 Past Assignments
 
 - [Assignment 10: System Synthesis and Communicating Ethical Analysis](./assignments/SEID2364_Assignment10_system_synthesis_and_communication.md) — synthesize your A7–A9 system analyses into one integrated understanding; develop your paper research question, outline, and opening; plan your oral presentation structure and visuals.
-
 - [Assignment 9: Mediation Pathways, Capability, and Responsibility](./assignments/SEID2364_Assignment09_mediation_pathways_capability_and_responsibility.md) — reconstruct how harmful outcomes emerge through mediation pathways in a real-world incident; apply EDOCA to evaluate capability under constraint; analyze whether harm was unintended, foreseeable but not prevented, or designed with plausible deniability; map where responsibility becomes distributed or unclear.
 - [Assignment 8: Bias, Decision-Making, and Harm in AI-Mediated Systems](./assignments/SEID2364_Assignment08_ai_mediation_risk_fluidity_and_regulatory_limits.md) — select a new AI system, construct three deployment scenarios, and map where bias enters and travels through a mediation pathway, how it shapes decisions, and what harms it produces.
 - [Assignment 7: EU AI Act System Evaluation](./assignments/SEID2364_Assignment07_eu_ai_act_system_evaluation.md) — classify a system within EU AI Act risk categories and analyze how risk is produced and distributed through mediation pathways.
 - [Assignment 6: Mediation Pathways Across Physical and Virtual Space](./assignments/SEID2364_Assignment06_mediation_pathways.md) — map how agency, information, authority, and accountability travel through mediated systems.
 - [Assignment 5: System Structuring and Ethical Analysis](./assignments/SEID2364_Assignment05_system_structuring.md)
 - [Assignment 4: Ethical Frameworks and the Evaluation of Harm](./assignments/SEID2364_Assignment04_Ethical_Frameworks.md)
-
-</details>
 
 ---
 

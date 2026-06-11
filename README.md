@@ -19,19 +19,18 @@
 
 
 **Current Assignment:**
-[Assignment 12: Case Study Specification](./assignments/SEID2364_Assignment12_case_study_specification.md) — Select a Lite Case Study and develop a specification of the ethical system it describes, using game theory, BBS, and EDOCA as analytic tools. This assignment launches your final paper process.
-
-
-**Support Resources (Week 12):**
-- [Case Study Game-Theoretic Analysis Worksheet](./resources/week-12/12-SEID2364_Case_Study_Game_Theory_Worksheet.md): A guided worksheet to help you map your Lite Case Study as a strategic system, clarifying agent roles, goals, signals, rules, and ethical tensions for your final project.
-- [Printable Game Pieces – Faceplant Covid Misinformation](./resources/week-12/SEID2364%20Printable%20Game%20Pieces%20-%20Faceplant%20Covid%20Misinformation.pdf): Printable materials for use in the Faceplant COVID-19 misinformation game activity, including stakeholder cards and other components.
-- [Meta-Rules for Designing the Faceplant Game](./resources/week-12/SEID2364_Week12-meta_rules_for_designing_the_faceplant_game.md): Outlines the meta-rules and design constraints for the Faceplant game activity, guiding you in constructing the game system, stakeholder roles, and scoring mechanisms.
-
----
+[Assignment 13: Final Assignment - Ethical Position Statements](./assignments/SEID2364_Assignment13_final_assignment_ethical_position_statements.md) — Synthesize your semester-long ethical development into personal and professional position statements, analyze their relation to philosophical ideas, professional standards, governmental authority, and future stress-testing, and document AI use transparently.
 
 
 
 ## 📚 Past Assignments
+
+- [Assignment 12: Case Study Specification](./assignments/SEID2364_Assignment12_case_study_specification.md) — Select a Lite Case Study and develop a specification of the ethical system it describes, using game theory, BBS, and EDOCA as analytic tools. This assignment launches your final paper process.
+
+**Past Assignment Resources (Week 12):**
+- [Case Study Game-Theoretic Analysis Worksheet](./resources/week-12/12-SEID2364_Case_Study_Game_Theory_Worksheet.md): A guided worksheet to help you map your Lite Case Study as a strategic system, clarifying agent roles, goals, signals, rules, and ethical tensions for your final project.
+- [Printable Game Pieces – Faceplant Covid Misinformation](./resources/week-12/SEID2364%20Printable%20Game%20Pieces%20-%20Faceplant%20Covid%20Misinformation.pdf): Printable materials for use in the Faceplant COVID-19 misinformation game activity, including stakeholder cards and other components.
+- [Meta-Rules for Designing the Faceplant Game](./resources/week-12/SEID2364_Week12-meta_rules_for_designing_the_faceplant_game.md): Outlines the meta-rules and design constraints for the Faceplant game activity, guiding you in constructing the game system, stakeholder roles, and scoring mechanisms.
 
 - [Assignment 10: System Synthesis and Communicating Ethical Analysis](./assignments/SEID2364_Assignment10_system_synthesis_and_communication.md) — synthesize your A7–A9 system analyses into one integrated understanding; develop your paper research question, outline, and opening; plan your oral presentation structure and visuals.
 - [Assignment 9: Mediation Pathways, Capability, and Responsibility](./assignments/SEID2364_Assignment09_mediation_pathways_capability_and_responsibility.md) — reconstruct how harmful outcomes emerge through mediation pathways in a real-world incident; apply EDOCA to evaluate capability under constraint; analyze whether harm was unintended, foreseeable but not prevented, or designed with plausible deniability; map where responsibility becomes distributed or unclear.
@@ -100,6 +99,23 @@ The semester follows a 14-week sequence progressing from individual inquiry → 
 ## 🤝 **AI and Collaboration Policy**
 
 AI is integrated as both a **tool and a collaborator**. Students are encouraged to use AI systems (e.g., ChatGPT, Copilot, NotebookLM) responsibly, documenting their interactions and reflecting on the ethical implications of their use. All AI participation must be transparent and properly attributed.
+
+---
+
+## 📤 **Submission Pathway (All Assignments)**
+
+All assignments in this course are submitted through each student's own GitHub branch.
+
+1. Work in your personal branch (not `main`).
+2. Save assignment files in your own folder under `students/`.
+3. Make sure that each assignment is labeled with your name and the assignment number.
+4. Assignments can be in markdown or pdf format
+5. Use a consistent path pattern for assignment files, for example:
+	`students/lastname-firstname/<assignment-file>.md`
+6. Commit your work with a clear commit message.
+7. Push your branch before the deadline.
+
+Instructor review is based on the state of your assignment files in your branch at the submission deadline.
 
 ---
 

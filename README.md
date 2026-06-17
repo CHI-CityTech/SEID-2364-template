@@ -21,7 +21,8 @@
 
 
 
-## 📚 Past Assignments
+<details>
+<summary>Past Assignments</summary>
 
 - [Assignment 12: Case Study Specification](./assignments/SEID2364_Assignment12_case_study_specification.md) — Select a Lite Case Study and develop a specification of the ethical system it describes, using game theory, BBS, and EDOCA as analytic tools. This assignment launches your final paper process.
 
@@ -37,6 +38,8 @@
 - [Assignment 6: Mediation Pathways Across Physical and Virtual Space](./assignments/SEID2364_Assignment06_mediation_pathways.md) — map how agency, information, authority, and accountability travel through mediated systems.
 - [Assignment 5: System Structuring and Ethical Analysis](./assignments/SEID2364_Assignment05_system_structuring.md)
 - [Assignment 4: Ethical Frameworks and the Evaluation of Harm](./assignments/SEID2364_Assignment04_Ethical_Frameworks.md)
+
+</details>
 
 ---
 

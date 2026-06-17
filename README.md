@@ -22,7 +22,7 @@
 
 
 <details>
-<summary>Past Assignments</summary>
+<summary><strong>📚 Past Assignments</strong> (click to expand)</summary>
 
 - [Assignment 12: Case Study Specification](./assignments/SEID2364_Assignment12_case_study_specification.md) — Select a Lite Case Study and develop a specification of the ethical system it describes, using game theory, BBS, and EDOCA as analytic tools. This assignment launches your final paper process.
 

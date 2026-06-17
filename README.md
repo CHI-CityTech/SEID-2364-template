@@ -1,7 +1,3 @@
-# 📅 **Doodle Poll for Next Meeting**
-
-[**Participate in the Doodle Poll to schedule our next class meeting.**](https://doodle.com/group-poll/participate/aMKpvmOd)
-
 # **README – SEID 2364: Societal and Ethical Impacts of Data Science**
 
 ## *Modul University Vienna – Spring 2026*

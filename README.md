@@ -17,7 +17,9 @@
 **Current Assignment:**
 [Assignment 13: Final Assignment - Ethical Position Statements](./assignments/SEID2364_Assignment13_final_assignment_ethical_position_statements.md) — Synthesize your semester-long ethical development into personal and professional position statements, analyze their relation to philosophical ideas, professional standards, governmental authority, and future stress-testing, and document AI use transparently.
 
-[Assignment 14: Final Class Presentation Preparation](./assignments/SEID2364_Assignment14_final_class_framework_presentation_preparation.md) — Prepare a brief, public-facing two-slide presentation of your personal and professional ethical framework positions for in-class stress-testing and revision.
+[Assignment 14: Final Class Presentation Preparation](./assignments/SEID2364_Assignment14_final_class_framework_presentation_preparation.md) — Prepare a brief, public-facing two-slide presentation of your personal and professional ethical framework positions for in-class stress-testing and revision.  
+
+[Link to the Shared Google Slide Show](https://l1nk.dev/koc4kgz)  This link will direct you to teh shared slides. Each student has been assigned two slides, and your name is on the ones assigned to you. Only work on your own slides!!!!  
 
 
 

@@ -1,5 +1,7 @@
 # **README – SEID 2364: Societal and Ethical Impacts of Data Science**
 
+> **Template Line Notice (2026):** This repository is the official reusable **SEID 2364 Template** baseline, derived from the Spring 2026 course development cycle. Use this repository for future course clones and iteration.
+
 ## *Modul University Vienna – Spring 2026*
 
 **Instructor:** Dr. David B. Smith  

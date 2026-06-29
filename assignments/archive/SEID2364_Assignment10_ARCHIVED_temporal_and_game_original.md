@@ -26,12 +26,13 @@ The original Assignment 10 (Week 10 Asynchronous Module) was organized around:
 
 All original materials referenced in the game activities remain available:
 
-- **Game Launch Card:** [U10SG-Unit-10-Signal-Tracking-Game.md](../../SEID-2364.wiki/U10SG-Unit-10-Signal-Tracking-Game.md)
+- **Game Launch Card:** [Template Wiki: U10SG-Unit-10-Signal-Tracking-Game](https://github.com/CHI-CityTech/SEID-2364-template/wiki/U10SG-Unit-10-Signal-Tracking-Game)
 - **Space Cards:** U10SG-Space-*.md (6 cards in wiki)
 - **Agent Cards:** U10SG-Agent-*.md (6 cards in wiki)
 - **Starter Signal Templates:** U10SG-Signal-Template-Starter-A/B/C/D (4 cards in wiki)
-- **Signal Card Template (blank):** [10-03-signal_card_template.md](../resources/week-10/10-03-signal_card_template.md)
-- **Game Rules Document:** [U10SG-Unit-10-Signal-Tracking-Game.md - Rules Section](../../SEID-2364.wiki/U10SG-Unit-10-Signal-Tracking-Game.md#core-rules)
+- **Signal Card Template (blank):** [10-03-signal_card_template.md](../../resources/week-10/10-03-signal_card_template.md)
+- **Game Rules Document:** [Template Wiki Rules Section](https://github.com/CHI-CityTech/SEID-2364-template/wiki/U10SG-Unit-10-Signal-Tracking-Game#core-rules)
+- Cleanup tracking: [WIKI_CLEANUP_MAP.md](../../WIKI_CLEANUP_MAP.md)
 
 ## Why This Content Was Separated
 

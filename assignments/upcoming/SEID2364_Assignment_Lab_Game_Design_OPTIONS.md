@@ -167,13 +167,15 @@ After students have completed their individual papers and presentations, they co
 
 Regardless of which option you choose, all game materials are ready to use:
 
-- ✅ **U10SG Launch Card** — [U10SG-Unit-10-Signal-Tracking-Game.md](../../SEID-2364.wiki/U10SG-Unit-10-Signal-Tracking-Game.md)
+- ✅ **U10SG Launch Card** — [Template Wiki: U10SG-Unit-10-Signal-Tracking-Game](https://github.com/CHI-CityTech/SEID-2364-template/wiki/U10SG-Unit-10-Signal-Tracking-Game)
 - ✅ **6 Space Cards** — (wiki)
 - ✅ **6 Agent Cards** — (wiki)
 - ✅ **4 Starter Signal Templates** — (wiki)
-- ✅ **Blank Signal Template** — [10-03-signal_card_template.md](../resources/week-10/10-03-signal_card_template.md)
+- ✅ **Blank Signal Template** — [10-03-signal_card_template.md](../../resources/week-10/10-03-signal_card_template.md)
 - ✅ **Core Rules** — (embedded in launch card)
 - ✅ **Asset Folder** — assets/images/u10sg/ (ready for graphics)
+
+Wiki cleanup tracking: [WIKI_CLEANUP_MAP.md](../../WIKI_CLEANUP_MAP.md)
 
 All materials can be deployed immediately with whichever option you select.
 

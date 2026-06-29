@@ -28,3 +28,8 @@ This repository is a clone of the frozen SEID-2364 main baseline for conversion 
 2. A template release tag (for example, v1.0.0-template).
 3. A migration note pointing to legacy AI-Curriculum location.
 4. A short evidence note to support OAA innovation reporting.
+
+## Working Task Tracker
+
+Use [TEMPLATE_REDESIGN_TASKS.md](./TEMPLATE_REDESIGN_TASKS.md) as the live implementation plan for the redesign work. Keep this checklist as the high-level criteria and use the task tracker for concrete actions, sequencing, and status.
+

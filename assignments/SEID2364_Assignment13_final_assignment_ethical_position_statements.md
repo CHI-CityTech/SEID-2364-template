@@ -217,7 +217,7 @@ Students are required to include an **AI Use Statement** describing how artifici
 
 This statement should be **transparent, specific, and reflective**, and should address both **tool use** and **collaborative use** of AI.
 
-**Exemplar:** Review the [AI Usage Statement for SEID 2364](../seid-2364_ai_collaboration_report.md#ai-usage-statement--seid-2364-course-development-spring-2026) to see how the instructor documented AI use across the semester, including the BBS mediation pathway framework. This is a worked example of the kind of reflection and transparency expected in your statement.
+**Exemplar:** Review the [AI Usage Statement for SEID 2364](../assessment/seid-2364_ai_collaboration_report.md#ai-usage-statement--seid-2364-course-development-spring-2026) to see how the instructor documented AI use across the semester, including the BBS mediation pathway framework. This is a worked example of the kind of reflection and transparency expected in your statement.
 
 You should consider:
 

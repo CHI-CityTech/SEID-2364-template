@@ -7,8 +7,8 @@ Branch: template-redesign-2026
 
 This document compares the two syllabus files currently in the repository and then sketches a provisional "After" syllabus based on the broader repo evidence.
 
-- [SYLLABUS.md](./SYLLABUS.md) is the compact official syllabus snapshot.
-- [SEID2364 Syllabus 2026S Modul.md](./docs/syllabus-sources/SEID2364%20Syllabus%202026S%20Modul.md) is the fuller semester-facing syllabus record.
+- [SYLLABUS.md](../SYLLABUS.md) is the compact official syllabus snapshot.
+- [SEID2364 Syllabus 2026S Modul.md](../docs/syllabus-sources/SEID2364%20Syllabus%202026S%20Modul.md) is the fuller semester-facing syllabus record.
 - [SYLLABUS_COVERAGE_COMPARISON_MATRIX.md](./SYLLABUS_COVERAGE_COMPARISON_MATRIX.md) is the week-by-week comparison matrix for topics, terminology, assignments, and readings.
 
 ## High-Level Comparison
@@ -29,7 +29,7 @@ This document compares the two syllabus files currently in the repository and th
 
 ## Section-by-Section Delta
 
-| Section | [SYLLABUS.md](./SYLLABUS.md) | [SEID2364 Syllabus 2026S Modul.md](./docs/syllabus-sources/SEID2364%20Syllabus%202026S%20Modul.md) | Implication for After-Draft |
+| Section | [SYLLABUS.md](../SYLLABUS.md) | [SEID2364 Syllabus 2026S Modul.md](../docs/syllabus-sources/SEID2364%20Syllabus%202026S%20Modul.md) | Implication for After-Draft |
 | --- | --- | --- | --- |
 | Title / metadata | Compact course header | Full institutional table with course ID, semester, contacts, and program fields | Keep only reusable header data in the template version |
 | Course description | Short conceptual summary | Longer prose with administrative framing and modality references | Merge into one reusable course description |
@@ -55,39 +55,39 @@ The repo shows that the semester evolved beyond a static syllabus page. The lect
 
 ### Strong evidence of course delivery artifacts
 
-- [assignments/SEID2364_Assignment01_moral_machine_ethics_journal.md](./assignments/SEID2364_Assignment01_moral_machine_ethics_journal.md)
-- [assignments/SEID2364_Assignment04_Ethical_Frameworks.md](./assignments/SEID2364_Assignment04_Ethical_Frameworks.md)
-- [assignments/SEID2364_Assignment05_system_structuring.md](./assignments/SEID2364_Assignment05_system_structuring.md)
-- [assignments/SEID2364_Assignment06_mediation_pathways.md](./assignments/SEID2364_Assignment06_mediation_pathways.md)
-- [assignments/SEID2364_Assignment07_eu_ai_act_system_evaluation.md](./assignments/SEID2364_Assignment07_eu_ai_act_system_evaluation.md)
-- [assignments/SEID2364_Assignment08_ai_mediation_risk_fluidity_and_regulatory_limits.md](./assignments/SEID2364_Assignment08_ai_mediation_risk_fluidity_and_regulatory_limits.md)
-- [assignments/SEID2364_Assignment09_mediation_pathways_capability_and_responsibility.md](./assignments/SEID2364_Assignment09_mediation_pathways_capability_and_responsibility.md)
-- [assignments/SEID2364_Assignment10_system_synthesis_and_communication.md](./assignments/SEID2364_Assignment10_system_synthesis_and_communication.md)
-- [resources/week-10/README.md](./resources/week-10/README.md)
-- [resources/week-11/SEID2364_misinformation_bad_actors_mediated_systems.md](./resources/week-11/SEID2364_misinformation_bad_actors_mediated_systems.md)
-- [resources/week-12/12-SEID2364_Case_Study_Game_Theory_Worksheet.md](./resources/week-12/12-SEID2364_Case_Study_Game_Theory_Worksheet.md)
+- [assignments/SEID2364_Assignment01_moral_machine_ethics_journal.md](../assignments/SEID2364_Assignment01_moral_machine_ethics_journal.md)
+- [assignments/SEID2364_Assignment04_Ethical_Frameworks.md](../assignments/SEID2364_Assignment04_Ethical_Frameworks.md)
+- [assignments/SEID2364_Assignment05_system_structuring.md](../assignments/SEID2364_Assignment05_system_structuring.md)
+- [assignments/SEID2364_Assignment06_mediation_pathways.md](../assignments/SEID2364_Assignment06_mediation_pathways.md)
+- [assignments/SEID2364_Assignment07_eu_ai_act_system_evaluation.md](../assignments/SEID2364_Assignment07_eu_ai_act_system_evaluation.md)
+- [assignments/SEID2364_Assignment08_ai_mediation_risk_fluidity_and_regulatory_limits.md](../assignments/SEID2364_Assignment08_ai_mediation_risk_fluidity_and_regulatory_limits.md)
+- [assignments/SEID2364_Assignment09_mediation_pathways_capability_and_responsibility.md](../assignments/SEID2364_Assignment09_mediation_pathways_capability_and_responsibility.md)
+- [assignments/SEID2364_Assignment10_system_synthesis_and_communication.md](../assignments/SEID2364_Assignment10_system_synthesis_and_communication.md)
+- [resources/week-10/README.md](../resources/week-10/README.md)
+- [resources/week-11/SEID2364_misinformation_bad_actors_mediated_systems.md](../resources/week-11/SEID2364_misinformation_bad_actors_mediated_systems.md)
+- [resources/week-12/12-SEID2364_Case_Study_Game_Theory_Worksheet.md](../resources/week-12/12-SEID2364_Case_Study_Game_Theory_Worksheet.md)
 
 ### Evidence of later-semester or reset-era restructuring
 
-- [assignments/SEID2364_Assignment11_acm_ieee_covid_case_analysis.md](./assignments/SEID2364_Assignment11_acm_ieee_covid_case_analysis.md)
-- [assignments/upcoming/SEID2364_Assignment11_emerging_technologies_and_uncertainty.md](./assignments/upcoming/SEID2364_Assignment11_emerging_technologies_and_uncertainty.md)
-- [assignments/SEID2364_Assignment12_case_study_specification.md](./assignments/SEID2364_Assignment12_case_study_specification.md)
-- [assignments/SEID2364_Assignment13_final_assignment_ethical_position_statements.md](./assignments/SEID2364_Assignment13_final_assignment_ethical_position_statements.md)
-- [assignments/SEID2364_Assignment14_final_class_framework_presentation_preparation.md](./assignments/SEID2364_Assignment14_final_class_framework_presentation_preparation.md)
+- [assignments/SEID2364_Assignment11_acm_ieee_covid_case_analysis.md](../assignments/SEID2364_Assignment11_acm_ieee_covid_case_analysis.md)
+- [assignments/upcoming/SEID2364_Assignment11_emerging_technologies_and_uncertainty.md](../assignments/upcoming/SEID2364_Assignment11_emerging_technologies_and_uncertainty.md)
+- [assignments/SEID2364_Assignment12_case_study_specification.md](../assignments/SEID2364_Assignment12_case_study_specification.md)
+- [assignments/SEID2364_Assignment13_final_assignment_ethical_position_statements.md](../assignments/SEID2364_Assignment13_final_assignment_ethical_position_statements.md)
+- [assignments/SEID2364_Assignment14_final_class_framework_presentation_preparation.md](../assignments/SEID2364_Assignment14_final_class_framework_presentation_preparation.md)
 
 ### Evidence from lecture notes and slide decks
 
-- [resources/lecture notes/SEID2364_week02-PowerPoint Final 2026S-with notes.pdf](./resources/lecture%20notes/SEID2364_week02-PowerPoint%20Final%202026S-with%20notes.pdf)
-- [resources/lecture notes/SEID2364_Week04_Slides_Frameworks-with notes.pdf](./resources/lecture%20notes/SEID2364_Week04_Slides_Frameworks-with%20notes.pdf)
-- [resources/lecture notes/SEID2364_Week05_Slides_BBS-v2-with notes.pdf](./resources/lecture%20notes/SEID2364_Week05_Slides_BBS-v2-with%20notes.pdf)
-- [resources/SEID2364_Week_06 - BBS Slide presentation_outline.md](./resources/SEID2364_Week_06%20-%20BBS%20Slide%20presentation_outline.md)
-- [resources/lecture notes/SEID2364_Week06 - BBS Slide presentation-with notes.pdf](./resources/lecture%20notes/SEID2364_Week06%20-%20BBS%20Slide%20presentation-with%20notes.pdf)
-- [resources/lecture notes/Seid2364_Week07 - EU Act - with notes.pdf](./resources/lecture%20notes/Seid2364_Week07%20-%20EU%20Act%20-%20with%20notes.pdf)
-- [resources/lecture notes/SEID2364_Week08-Bias, Mediation, and System Pathways-with notes.pdf](./resources/lecture%20notes/SEID2364_Week08-Bias,%20Mediation,%20and%20System%20Pathways-with%20notes.pdf)
-- [resources/lecture notes/SEID2364_Week09 -Distance Authority and Risk-with notes.pdf](./resources/lecture%20notes/SEID2364_Week09%20-Distance%20Authority%20and%20Risk-with%20notes.pdf)
-- [resources/lecture notes/SEID2364_Week11-Presentation misinformation bad actors-with notes.pdf](./resources/lecture%20notes/SEID2364_Week11-Presentation%20misinformation%20bad%20actors-with%20notes.pdf)
-- [resources/lecture notes/SEID2364_Week12 Slide Deck - Ethical Systems As Strategic Games-with notes.pdf](./resources/lecture%20notes/SEID2364_Week12%20Slide%20Deck%20-%20Ethical%20Systems%20As%20Strategic%20Games-with%20notes.pdf)
-- [resources/lecture notes/SEID2364_Week13 Powerpoint Synthesis and Putting it all together-with notes.pdf](./resources/lecture%20notes/SEID2364_Week13%20Powerpoint%20Synthesis%20and%20Putting%20it%20all%20together-with%20notes.pdf)
+- [resources/lecture notes/SEID2364_week02-PowerPoint Final 2026S-with notes.pdf](../resources/lecture%20notes/SEID2364_week02-PowerPoint%20Final%202026S-with%20notes.pdf)
+- [resources/lecture notes/SEID2364_Week04_Slides_Frameworks-with notes.pdf](../resources/lecture%20notes/SEID2364_Week04_Slides_Frameworks-with%20notes.pdf)
+- [resources/lecture notes/SEID2364_Week05_Slides_BBS-v2-with notes.pdf](../resources/lecture%20notes/SEID2364_Week05_Slides_BBS-v2-with%20notes.pdf)
+- [resources/SEID2364_Week_06 - BBS Slide presentation_outline.md](../resources/SEID2364_Week_06%20-%20BBS%20Slide%20presentation_outline.md)
+- [resources/lecture notes/SEID2364_Week06 - BBS Slide presentation-with notes.pdf](../resources/lecture%20notes/SEID2364_Week06%20-%20BBS%20Slide%20presentation-with%20notes.pdf)
+- [resources/lecture notes/Seid2364_Week07 - EU Act - with notes.pdf](../resources/lecture%20notes/Seid2364_Week07%20-%20EU%20Act%20-%20with%20notes.pdf)
+- [resources/lecture notes/SEID2364_Week08-Bias, Mediation, and System Pathways-with notes.pdf](../resources/lecture%20notes/SEID2364_Week08-Bias,%20Mediation,%20and%20System%20Pathways-with%20notes.pdf)
+- [resources/lecture notes/SEID2364_Week09 -Distance Authority and Risk-with notes.pdf](../resources/lecture%20notes/SEID2364_Week09%20-Distance%20Authority%20and%20Risk-with%20notes.pdf)
+- [resources/lecture notes/SEID2364_Week11-Presentation misinformation bad actors-with notes.pdf](../resources/lecture%20notes/SEID2364_Week11-Presentation%20misinformation%20bad%20actors-with%20notes.pdf)
+- [resources/lecture notes/SEID2364_Week12 Slide Deck - Ethical Systems As Strategic Games-with notes.pdf](../resources/lecture%20notes/SEID2364_Week12%20Slide%20Deck%20-%20Ethical%20Systems%20As%20Strategic%20Games-with%20notes.pdf)
+- [resources/lecture notes/SEID2364_Week13 Powerpoint Synthesis and Putting it all together-with notes.pdf](../resources/lecture%20notes/SEID2364_Week13%20Powerpoint%20Synthesis%20and%20Putting%20it%20all%20together-with%20notes.pdf)
 
 ## Provisional After-Draft: What the Reconciled Syllabus Should Do
 

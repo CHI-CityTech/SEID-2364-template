@@ -32,7 +32,7 @@ All original materials referenced in the game activities remain available:
 - **Starter Signal Templates:** U10SG-Signal-Template-Starter-A/B/C/D (4 cards in wiki)
 - **Signal Card Template (blank):** [10-03-signal_card_template.md](../../resources/week-10/10-03-signal_card_template.md)
 - **Game Rules Document:** [Template Wiki Rules Section](https://github.com/CHI-CityTech/SEID-2364-template/wiki/U10SG-Unit-10-Signal-Tracking-Game#core-rules)
-- Cleanup tracking: [WIKI_CLEANUP_MAP.md](../../WIKI_CLEANUP_MAP.md)
+- Cleanup tracking: [WIKI_CLEANUP_MAP.md](../../assessment/WIKI_CLEANUP_MAP.md)
 
 ## Why This Content Was Separated
 

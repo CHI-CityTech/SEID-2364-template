@@ -175,7 +175,7 @@ Regardless of which option you choose, all game materials are ready to use:
 - ✅ **Core Rules** — (embedded in launch card)
 - ✅ **Asset Folder** — assets/images/u10sg/ (ready for graphics)
 
-Wiki cleanup tracking: [WIKI_CLEANUP_MAP.md](../../WIKI_CLEANUP_MAP.md)
+Wiki cleanup tracking: [WIKI_CLEANUP_MAP.md](../../assessment/WIKI_CLEANUP_MAP.md)
 
 All materials can be deployed immediately with whichever option you select.
 

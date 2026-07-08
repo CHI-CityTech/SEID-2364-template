@@ -46,6 +46,27 @@ This file tracks the concrete work needed to finish the template redesign. It sh
 - [ ] Add a short evidence note for OAA innovation reporting.
 - [ ] Create or tag a template release version.
 
+### 6. Operationalize assessment-driven course redesign
+
+- [ ] Introduce the final assignment as an explicit Week 1 anchor with an opening low-stakes baseline prompt.
+- [ ] Formalize the provocation workflow as recurring attendance and engagement evidence.
+- [ ] Define and publish private-journal versus submitted-artifact boundaries.
+- [ ] Integrate SRDMPA as an explicit recurring cycle across assignments and weekly activities.
+- [ ] Create an AI-use and decision-trace template for assignment artifacts.
+- [ ] Introduce game-based simulations earlier and position strategic/game-theory reasoning as a through-line.
+- [ ] Scaffold BBS and EDOCA using an Observe -> Trace -> Diagnose -> Revise progression.
+- [ ] Define asynchronous activity categories and required return paths.
+- [ ] Publish explicit synchronous remote rules of engagement by session type.
+- [ ] Build scalable team-process reflection structures for low, medium, and full enrollment bands.
+- [ ] Embed at least one Zotero evidence action in each assignment cycle.
+
+### 7. Reorder the big-picture course arc
+
+- [ ] Map Big Ideas 1-10 to weekly units and identify where each idea is introduced versus revisited.
+- [ ] Revise the unit sequence to support earlier system/strategic framing while preserving ethics fundamentals.
+- [ ] Align assignment prompts to the revised big-ideas progression and through-line concepts.
+- [ ] Ensure the revised arc is reflected consistently in syllabus, assignments, and resources.
+
 ## Suggested Status Labels
 
 - `not started`

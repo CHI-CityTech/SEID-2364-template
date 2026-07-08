@@ -1,6 +1,6 @@
 # SEID 2364 Template Repository
 
-<img src="./resources/images/SEID2364%20logo%20ChatGPT.png" alt="SEID 2364 logo" width="320">
+<img src="./resources/images/SEID2364%20logo%20ChatGPT.png" alt="SEID 2364 logo" width="160">
 
 Work in progress: this repository is currently being revised into a more complete v2 version of the SEID 2364 course template.
 

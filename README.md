@@ -35,12 +35,13 @@ These are preserved for reconstruction and comparison, not as the primary syllab
 5. `assignments/upcoming/`
 6. `case-studies/`
 7. `resources/`
-8. `resources/week-06/`, `resources/week-10/`, `resources/week-11/`, `resources/week-12/`
-9. `resources/lecture notes/`
-10. `resources/glossaries/`
-11. `assessment/`
-12. `docs/syllabus-sources/`
-13. `students/`
+8. `resources/week-03/` through `resources/week-06/`
+9. `resources/week-08/` through `resources/week-12/`
+10. `resources/lecture notes/`
+11. `resources/glossaries/`
+12. `assessment/`
+13. `docs/syllabus-sources/`
+14. `students/`
 
 ## Assessment and Redesign Workspace
 
@@ -64,6 +65,8 @@ These files track findings, priorities, and redesign execution steps, including 
 4. Confirm weekly resource bundles in `resources/week-*`.
 5. Keep redesign/planning notes in `assessment/` rather than root.
 6. Archive superseded materials in `assignments/archive/` or `resources/archive/`.
+
+Weekly resource normalization is still in progress. At present, week folders exist for weeks 03-06 and 08-12; additional consolidation can continue as the lecture/resource cleanup proceeds.
 
 ## Notes on AI and Evidence
 

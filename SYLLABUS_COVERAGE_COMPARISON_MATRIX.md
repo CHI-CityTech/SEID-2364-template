@@ -7,7 +7,7 @@ Branch: template-redesign-2026
 
 This matrix compares the planned syllabus structure with the Spring 2026 delivery record, using both the lecture-note PDFs and the assignment files as evidence.
 
-- [SYLLABUS.md](./SYLLABUS.md) and [SEID2364 Syllabus 2026S Modul.md](./SEID2364%20Syllabus%202026S%20Modul.md) represent the planned / official syllabus frame.
+- [SYLLABUS.md](./SYLLABUS.md) and [SEID2364 Syllabus 2026S Modul.md](./docs/syllabus-sources/SEID2364%20Syllabus%202026S%20Modul.md) represent the planned / official syllabus frame.
 - Lecture-note PDFs in [resources/lecture notes/](./resources/lecture%20notes) represent the actual class delivery record.
 - Assignment files in [assignments/](./assignments) represent the student work that was actually assigned.
 
@@ -46,19 +46,24 @@ This matrix compares the planned syllabus structure with the Spring 2026 deliver
 - The earlier matrix version incorrectly shifted Assignments 4–8 forward by one week and duplicated Assignment 8; this has been corrected.
 - Week 10 is better understood as a resource package and activity set than as a single lecture PDF.
 - The late-semester materials shift from framework-building toward misinformation, strategic systems, and final synthesis.
+- The delivered structure shows a two-level method architecture: SRDMPA operates as a recursive course-level organizing and project-progress cycle, while EDOCA is applied at specific BBS mediation transitions for ethical diagnosis.
 
 ## Terminology That Recurs Across Lectures and Assignments
 
 - **Intelligence / agency / responsibility** in the early weeks.
 - **Harm / framework / evaluation** in the middle transition.
 - **BBS / mediation pathways / observability / control / authority** in the core analytic weeks.
+- **EDOCA (Effort, Distortion, Observability, Control, Authority)** as a tightly aligned ethical and BBS inquiry lens for evaluating transition-level mediation behavior.
 - **Bias / trust / privacy / distance / risk** in the mid-to-late transition.
 - **Misinformation / bad actors / professional responsibility** in the later lecture sequence.
 - **Game theory / strategic systems / synthesis / stress-testing** in the final weeks.
+- **SRDMPA (Speculate, Research, Design, Make, Publish, Assess)** as the recursive and intentionally fuzzy organizing structure for project progression across the full course arc.
 
 ## Working Interpretation
 
 The delivered course appears to have used lecture PDFs as the main delivery record and the assignments as the student-facing spine. The original syllabus gives the conceptual map, but the actual Spring 2026 sequence is better reconstructed from the lecture PDFs plus the assignment PDFs / markdown files.
+
+Methodologically, the Spring 2026 delivery appears to operate on two coupled layers: SRDMPA as a recursive organizing cycle (close to iterative design, but broader in research and publication scope), and EDOCA as a focused analytical instrument for ethical/BBS pathway evaluation.
 
 That means the revised syllabus should be organized around:
 

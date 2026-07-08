@@ -8,7 +8,7 @@ Branch: template-redesign-2026
 This document compares the two syllabus files currently in the repository and then sketches a provisional "After" syllabus based on the broader repo evidence.
 
 - [SYLLABUS.md](./SYLLABUS.md) is the compact official syllabus snapshot.
-- [SEID2364 Syllabus 2026S Modul.md](./SEID2364%20Syllabus%202026S%20Modul.md) is the fuller semester-facing syllabus record.
+- [SEID2364 Syllabus 2026S Modul.md](./docs/syllabus-sources/SEID2364%20Syllabus%202026S%20Modul.md) is the fuller semester-facing syllabus record.
 - [SYLLABUS_COVERAGE_COMPARISON_MATRIX.md](./SYLLABUS_COVERAGE_COMPARISON_MATRIX.md) is the week-by-week comparison matrix for topics, terminology, assignments, and readings.
 
 ## High-Level Comparison
@@ -29,7 +29,7 @@ This document compares the two syllabus files currently in the repository and th
 
 ## Section-by-Section Delta
 
-| Section | [SYLLABUS.md](./SYLLABUS.md) | [SEID2364 Syllabus 2026S Modul.md](./SEID2364%20Syllabus%202026S%20Modul.md) | Implication for After-Draft |
+| Section | [SYLLABUS.md](./SYLLABUS.md) | [SEID2364 Syllabus 2026S Modul.md](./docs/syllabus-sources/SEID2364%20Syllabus%202026S%20Modul.md) | Implication for After-Draft |
 | --- | --- | --- | --- |
 | Title / metadata | Compact course header | Full institutional table with course ID, semester, contacts, and program fields | Keep only reusable header data in the template version |
 | Course description | Short conceptual summary | Longer prose with administrative framing and modality references | Merge into one reusable course description |
@@ -47,7 +47,7 @@ The repo shows that the semester evolved beyond a static syllabus page. The lect
 
 ### Primary evidence categories
 
-- `SYLLABUS.md` and `SEID2364 Syllabus 2026S Modul.md` establish the planned and institutional course structure.
+- `SYLLABUS.md` and `docs/syllabus-sources/SEID2364 Syllabus 2026S Modul.md` establish the planned and institutional course structure.
 - `resources/lecture notes/` contains the PDF lecture decks that reflect actual class delivery.
 - `assignments/` contains the prompts and deliverables students actually received.
 - `resources/` and `case-studies/` contain the supporting readings, worksheets, and case materials used in the course.

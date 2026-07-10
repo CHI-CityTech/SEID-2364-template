@@ -36,7 +36,7 @@ The central challenge is how creative innovation, cultural stewardship, attribut
 ## Sources and Resources for Further Research
 - Primary case source: ../quantum_musico.md
 - Standardized reference (instructor/full): ../standardized_case_studies/case_study-quantum_musico-standardized.md
-- BBS pathway figure: ../../resources/images/Quantum_Music_Research_Flow.png
+- BBS pathway figure: ../../resources/images/quantum-music-research-flow.png
 - ACM Code of Ethics and Professional Conduct: https://www.acm.org/code-of-ethics
 - IEEE Code of Ethics: https://www.ieee.org/about/corporate/governance/p7-8.html
 - WIPO policy and AI resources: https://www.wipo.int/about-ip/en/frontier_technologies/ai_and_ip.html

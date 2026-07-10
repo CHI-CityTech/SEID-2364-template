@@ -1,6 +1,6 @@
 # SEID 2364 Template Repository
 
-<img src="./resources/images/SEID2364%20logo%20ChatGPT.png" alt="SEID 2364 logo" width="160">
+<img src="./resources/images/seid2364-logo-chatgpt.png" alt="SEID 2364 logo" width="160">
 
 Work in progress: this repository is currently being revised into a more complete v2 version of the SEID 2364 course template.
 
@@ -17,13 +17,13 @@ This repository captures a maintainable course structure derived from the Spring
 Use this repository to:
 
 1. Run future offerings of SEID 2364.
-2. Preserve stable course architecture (syllabus, assignments, resources, case studies).
+2. Preserve stable course architecture (syllabus, assignments, and reusable resource libraries, including case studies).
 3. Maintain a clear separation between reusable template assets and historical assessment artifacts.
 
 ## What Is Canonical
 
 1. `SYLLABUS.md` at repository root is the active maintained syllabus for the template.
-2. `assignments/`, `case-studies/`, and `resources/` provide the reusable instructional materials.
+2. `assignments/` and `resources/` provide the reusable instructional materials, with `resources/case-studies/` functioning as a core case-study resource library.
 3. `assessment/` contains redesign analysis and planning artifacts from the first iteration and later redesign passes.
 
 ## Historical Source Artifacts
@@ -34,22 +34,45 @@ Historical syllabus source files are stored in:
 
 These are preserved for reconstruction and comparison, not as the primary syllabus to edit.
 
-## Repository Organization
+## Repository Organization (Purpose-First)
 
-1. `SYLLABUS.md`
-2. `README.md`
-3. `assignments/`
-4. `assignments/archive/`
-5. `assignments/upcoming/`
-6. `case-studies/`
-7. `resources/`
-8. `resources/week-03/` through `resources/week-06/`
-9. `resources/week-08/` through `resources/week-12/`
-10. `resources/lecture notes/`
-11. `resources/glossaries/`
-12. `assessment/`
-13. `docs/syllabus-sources/`
-14. `students/`
+| Name | Description |
+| --- | --- |
+| `SYLLABUS.md` | Canonical template syllabus for the course. |
+| `README.md` | Repository entry point, orientation, and maintenance guidance. |
+| `assignments/` | Active assignment materials for current use, plus archived and upcoming drafts. |
+| `resources/` | Primary course resource library, including weekly bundles and case-study resources. |
+| `assessment/` | Redesign workspace for findings, analysis, planning, and implementation tracking. |
+| `docs/` | Reference and historical source documentation not intended as weekly student-facing instruction. |
+| `students/` | Student work area for live-course usage; may be lightly used in template mode. |
+
+Subfolders used most often:
+
+1. `assignments/`
+   - `assignments/archive/`: superseded or historical assignment versions.
+   - `assignments/upcoming/`: draft or not-yet-active assignment materials.
+2. `resources/`
+   - `resources/weekly-resources/`: weekly bundles and assignment-linked resource packages.
+   - `resources/case-studies/`: selectable case-study library used across assignments and activities.
+   - `resources/lecture notes/`: delivery slide decks and lecture-note artifacts.
+   - `resources/glossaries/`: framework and terminology glossaries.
+   - `resources/datasets/`: data packages and dataset references.
+   - `resources/images/`: course images and figures.
+   - `resources/archive/`: legacy and relocated resource material.
+3. `docs/`
+   - `docs/syllabus-sources/`: preserved syllabus source artifacts for reconstruction/comparison.
+
+## Content Placement Policy (Repo vs Wiki)
+
+1. Canonical instructional materials live in the repository.
+   - Syllabus, assignments, resource files, lecture notes, case studies, and weekly bundles.
+2. Weekly assignment support belongs in `resources/weekly-resources/`.
+   - If a case study is needed for a specific week, link or package it in that week bundle.
+3. Governance and procedural guidance can live in the wiki.
+   - Course operations, onboarding, workflow rules, FAQ, and facilitation notes.
+4. The wiki should point to canonical repo files rather than replace them.
+5. Analysis and redesign planning stay in `assessment/`.
+6. Historical/source-reference documentation stays in `docs/`.
 
 ## Assessment and Redesign Workspace
 
@@ -70,11 +93,11 @@ These files track findings, priorities, and redesign execution steps, including 
 1. Copy or branch from this template baseline.
 2. Update `SYLLABUS.md` for the upcoming offering.
 3. Select active assignments in `assignments/` and adjust schedule references.
-4. Confirm weekly resource bundles in `resources/week-*`.
+4. Confirm and normalize resource bundles in `resources/weekly-resources/`, then align `resources/case-studies/` selections to assignment goals for the upcoming run.
 5. Keep redesign/planning notes in `assessment/` rather than root.
 6. Archive superseded materials in `assignments/archive/` or `resources/archive/`.
 
-Weekly resource normalization is still in progress. At present, week folders exist for weeks 03-06 and 08-12; additional consolidation can continue as the lecture/resource cleanup proceeds.
+Resource normalization is still in progress as part of v2 development; folder structure within `resources/` may continue to evolve while preserving stable external links where possible.
 
 ## Notes on AI and Evidence
 
@@ -91,4 +114,4 @@ Weekly resource normalization is still in progress. At present, week folders exi
 
 Keep root files minimal and stable.
 
-Put operational analysis, redesign notes, and historical interpretation in `assessment/` and `docs/`, while maintaining template-facing teaching assets in `SYLLABUS.md`, `assignments/`, `case-studies/`, and `resources/`.
+Put operational analysis, redesign notes, and historical interpretation in `assessment/` and `docs/`, while maintaining template-facing teaching assets in `SYLLABUS.md`, `assignments/`, and `resources/`.

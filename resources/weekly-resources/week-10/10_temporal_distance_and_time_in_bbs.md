@@ -48,7 +48,7 @@ A microsecond delay in a high-frequency trading system may represent catastrophi
 
 Several qualitative temporal conditions help characterize these relationships.
 
-![Figure 1. Symmetries of distance across spatial and temporal mediation.](../images/10d_Symmetries_of_Distance_BBS_Image.png)
+![Figure 1. Symmetries of distance across spatial and temporal mediation.](../../images/10d_Symmetries_of_Distance_BBS_Image.png)
 
 *Figure 1. Spatial and temporal distance can be described with parallel qualitative categories, supporting symmetry-based mediation analysis in BBS.*
 
@@ -142,7 +142,7 @@ BBS therefore treats temporal characterization not merely as elapsed duration, b
 
 Temporal integrity may depend not only on preservation within one temporal system, but also on the preservation of mappings between temporal systems.
 
-![Figure 2. Temporal representation and mapping across musical time, clock time, and sample time.](../images/10a_Music_vs_Clocktime_image.png)
+![Figure 2. Temporal representation and mapping across musical time, clock time, and sample time.](../../images/10a_Music_vs_Clocktime_image.png)
 
 *Figure 2. One mediated event can be represented across multiple temporal systems; mappings are transformable but can become fragile when performance conditions change.*
 
@@ -166,7 +166,7 @@ Temporal integrity may therefore be understood as:
 
 > the preservation of operational usefulness within an appropriate temporal mediation window.
 
-![Figure 3. Structural integrity and temporal integrity can vary independently.](../images/10c_Structural_and_temporal_integrity_image.png)
+![Figure 3. Structural integrity and temporal integrity can vary independently.](../../images/10c_Structural_and_temporal_integrity_image.png)
 
 *Figure 3. A signal may remain structurally intact while failing temporally; structural and temporal integrity should be assessed independently.*
 
@@ -237,7 +237,7 @@ Historical data applied to new contexts may preserve structural integrity while 
 
 Importantly, EDOCA itself should be interpreted qualitatively and contextually rather than purely numerically. The framework characterizes mediation conditions rather than attempting to reduce all mediation properties to fixed quantitative measurements.
 
-![Figure 4. Temporal mediation questions mapped to EDOCA dimensions.](../images/10b_EDOCA_Temporal.png)
+![Figure 4. Temporal mediation questions mapped to EDOCA dimensions.](../../images/10b_EDOCA_Temporal.png)
 
 *Figure 4. Temporal analysis can be integrated into existing EDOCA dimensions without introducing an additional dimension.*
 

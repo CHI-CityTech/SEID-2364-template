@@ -24,7 +24,7 @@ This case should remain interpretable without requiring students to open additio
 
 Condensed pathway: Mozart (historical source) -> corpus and editorial tradition (vectors) -> Quantum Musico/Meta-Mozart model (computational mediator) -> living composers and listeners (destinations and secondary sources).
 
-![Quantum Musico BBS mediation pathway](../../resources/images/Quantum_Music_Research_Flow.png)
+![Quantum Musico BBS mediation pathway](../../images/Quantum_Music_Research_Flow.png)
 
 The image can be used as a starting frame; students can then expand, challenge, or redraw the pathway to reflect different assumptions about authorship, control, and responsibility.
 

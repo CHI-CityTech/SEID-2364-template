@@ -2,8 +2,6 @@
 
 <img src="./resources/images/seid2364-logo-chatgpt.png" alt="SEID 2364 logo" width="160">
 
-Work in progress: this repository is currently being revised into a more complete v2 version of the SEID 2364 course template.
-
 This repository is the reusable template baseline for SEID 2364 (Societal and Ethical Impacts of Data Science).
 
 SEID 2364 is an applied ethics course in data science that examines how responsibility, judgment, power, mediation, and harm emerge across human, institutional, and computational systems. Grounded in the Balanced Blended Space (BBS) framework, the course treats ethical reasoning as a practical activity within complex socio-technical environments rather than as abstract rule application alone. It increasingly incorporates EDOCA, SRDMPA, case-based reasoning, and future-capability analysis to help students evaluate data-driven systems under conditions of ambiguity, complexity, and change.
